@@ -1,0 +1,30 @@
+{
+  "name": "raw-admin",
+  "version": "0.0.1",
+  "description": "A minimalist react admin template based on raw-ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shervinchen/raw-admin.git"
+  },
+  "keywords": [
+    "react",
+    "admin",
+    "typescript",
+    "dashboard",
+    "admin-dashboard",
+    "admin-template",
+    "react-template",
+    "react-admin",
+    "raw-ui"
+  ],
+  "author": "shervinchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shervinchen/raw-admin/issues"
+  },
+  "homepage": "https://github.com/shervinchen/raw-admin#readme"
+}
